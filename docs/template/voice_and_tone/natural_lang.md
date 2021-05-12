@@ -7,6 +7,6 @@ Translations should sound natural to the reader, as if the text had been origina
 *Examples of guidelines:*
 
 - *Preference for active, passive or impersonal voice?*
-- Preference for positive sentences rather than negative? (ie. Don't forget to... VS Remember to...)
-- Is double negative acceptable in your target language?
-- Preference for definite article vs indefinite article in some cases?*
+- *Preference for positive sentences rather than negative? (ie. Don't forget to... VS Remember to...)*
+- *Is double negative acceptable in your target language?*
+- *Preference for definite article vs indefinite article in some cases?*
