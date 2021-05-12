@@ -10,3 +10,4 @@ Translations should sound natural to the reader, as if the text had been origina
 - *Preference for positive sentences rather than negative? (ie. Don't forget to... VS Remember to...)*
 - *Is double negative acceptable in your target language?*
 - *Preference for definite article vs indefinite article in some cases?*
+- Added item
