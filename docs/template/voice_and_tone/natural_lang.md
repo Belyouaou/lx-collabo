@@ -11,3 +11,4 @@ Translations should sound natural to the reader, as if the text had been origina
 - *Is double negative acceptable in your target language?*
 - *Preference for definite article vs indefinite article in some cases?*
 - Added item
+- added new item 
