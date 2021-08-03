@@ -5,15 +5,15 @@ deliverable:
   lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i819666
-  product: SAP_lx_project
+  product: SAP_lx_project_ii
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: TEST_VERSION
   gh_edit_prefix: "https://github.com/Koichi-Tsumoto/lx-collabo/edit/main/doc/"
 outputmeta:
-- product: LX_TEST
-  product_name: LX Test Project
+- product: LX_TEST_II
+  product_name: LX Test Project II
   product_sapid: null
   version: TEST_VERSION
   version_name: Test Version
