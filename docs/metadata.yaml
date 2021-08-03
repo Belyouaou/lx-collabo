@@ -1,8 +1,8 @@
 deliverable:
 - buildname: _001
-  label: Github LX Project
+  label: Github LX Project Personal
   language: en-US
-  lastmodifiedby: alexander.tusa@sap.com
+  lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
   owner: i840200
   product: SAP_lx_project
@@ -13,13 +13,13 @@ deliverable:
   gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/edit/main/doc/"
 outputmeta:
 - product: LX_TEST
-  product_name: LX Test Project
+  product_name: LX Test Project Koichi
   product_sapid: null
   version: TEST_VERSION
   version_name: Test Version
   version_sapid: null
 mapref:
-  - title: "SAP LX Collaboration Guide"
+  - title: "SAP Translation Style Guide Global Template"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
     shortdesc: "Collaboration guide."
 nav:  
