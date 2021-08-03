@@ -1,16 +1,16 @@
 deliverable:
 - buildname: _001
-  label: Github LX Project
+  label: Github LX Project II
   language: en-US
-  lastmodifiedby: alexander.tusa@sap.com
+  lastmodifiedby: koichi.tsumoto@sap.com
   loio: loio_github_pgitty
-  owner: i840200
+  owner: i819666
   product: SAP_lx_project
   rootfile: upload.zip
   transtype: html5.uacp
   shortdesc: Test shortdesc
   version: TEST_VERSION
-  gh_edit_prefix: "https://github.com/alext-sap/lx-collabo/edit/main/doc/"
+  gh_edit_prefix: "https://github.com/Koichi-Tsumoto/lx-collabo/edit/main/doc/"
 outputmeta:
 - product: LX_TEST
   product_name: LX Test Project
@@ -19,9 +19,9 @@ outputmeta:
   version_name: Test Version
   version_sapid: null
 mapref:
-  - title: "SAP LX Collaboration Guide"
+  - title: "SAP LX Collaboration Guide II"
     loio: "loiod4bb113dd6e840f09a2c7bd9c47c1956"
-    shortdesc: "Collaboration guide."
+    shortdesc: "Collaboration guide II."
 nav:  
   - title: "About"
     filename: "template/about.md"
